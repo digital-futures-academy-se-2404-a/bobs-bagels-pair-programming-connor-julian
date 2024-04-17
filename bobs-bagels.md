@@ -14,7 +14,7 @@ In this activity, you will transform requirement statements into User Stories.
 
 A **User Story** describes one thing a program is expected to do, from the perspective of somebody using that program. When planning a program, the client's requirements will be decomposed into many User Stories. Much of a developer's life is spent translating User Stories into a functional system.
 
----
+--- 
 
 ## Requirement Statements
 

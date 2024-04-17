@@ -1,0 +1,12 @@
+{
+  "name": "test-frameworks",
+  "version": "1.0.0",
+  "description": "framework for testing",
+  "main": "test-file.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor and Julian",
+  "license": "ISC"
+}
