@@ -5,7 +5,8 @@
   "main": "test-file.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js",
+    "test": "node spec/basket.spec.js"
   },
   "author": "Connor and Julian",
   "license": "ISC"
