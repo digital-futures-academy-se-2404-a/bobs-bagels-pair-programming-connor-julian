@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
-    "test": "node spec/basket.spec.js"
+    "test": "node spec/basket-class.spec.js",
+    "old test": "node spec/basket.spec.js"
   },
   "author": "Connor and Julian",
   "license": "ISC"
